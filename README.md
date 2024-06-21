@@ -21,7 +21,9 @@ Siga os passos abaixo para configurar e executar o projeto em seu ambiente local
 
 2. **Instale as dependências**:
     ```bash
-    npm install
+    npm install @react-navigation/native
+    npm install @react-navigation/stack
+    npm install react-native-screens react-native-safe-area-context
     ```
 
 3. **Instale o Expo CLI** (caso ainda não tenha instalado):
